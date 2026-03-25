@@ -1,0 +1,14 @@
+﻿Insights:
+ 1. Customers with month-to-month contracts churn more
+ 2. High monthly charges increase churn probability
+ 3. Customers with low tenure are more likely to churn
+ 4. Lack of additional services leads to higher churn
+
+
+
+
+ Recommendations:
+ 1. Offer discounts for long-term contracts
+ 2. Provide loyalty rewards for long-tenure customers
+ 3. Reduce pricing for high-charge customers
+ 4. Improve customer service to reduce complaints
